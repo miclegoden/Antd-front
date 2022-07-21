@@ -1,0 +1,23 @@
+<svg
+  width="20"
+  height="18"
+  viewBox="0 0 20 18"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+<path
+    d="M0.828125 5.15758C1.5567 1.6433 5.88527 -0.999558 9.99955 3.67187C15.871 -3.0567 22.1424 5.28616 17.8853 9.58615L9.99955 16.8576L5.38527 12.5719 M0.713867 9.0007H4.2853L6.42815 6.14355L9.28529 11.1436L11.4282 8.28641H13.571"
+    stroke="#575757"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    class="myHeart"
+  />
+<!-- <path
+    d="M0.713867 9.0007H4.2853L6.42815 6.14355L9.28529 11.1436L11.4282 8.28641H13.571"
+    stroke="#575757"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  /> -->
+</svg>

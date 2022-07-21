@@ -1,0 +1,117 @@
+.main {
+  padding-right: 2%;
+}
+
+/* Greet CSS */
+.ant-col .greet {
+  font-size: 30px !important;
+}
+
+/* Main Image CSS */
+.main-img {
+  width: 100%;
+}
+
+/* Charts CSS */
+.charts {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2%;
+}
+
+.chart1 {
+  width: 95% !important;
+}
+
+.chart2 {
+  width: 95% !important;
+  margin-left: 2.5%;
+}
+
+.chart3 {
+  width: 95% !important;
+  margin-left: 5%;
+}
+/* ---------------------------------- */
+
+/* Table CSS */
+
+.table {
+  background-color: white;
+  margin-top: 2%;
+  padding: 3%;
+}
+
+.table-title {
+  font-size: 20px;
+}
+
+.ant-table-row-expand-icon {
+  display: none;
+}
+
+/* ---------------------------------- */
+
+/* Calendar CSS */
+
+.appoint {
+  margin-top: 3%;
+}
+
+.ant-btn-dangerous {
+  background-color: #f0f2f5;
+}
+
+.react-calendar {
+  width: 100%;
+  margin-top: 1%;
+  padding: 4%;
+}
+
+.cal-title {
+  font-size: 18px;
+}
+
+.react-calendar__tile--active {
+  background-color: #f00530 !important;
+  border-radius: 3px !important;
+}
+
+/* ---------------------------------- */
+
+/* Status CSS */
+
+.status {
+  background-color: white;
+  margin-top: 5%;
+}
+
+.status-title {
+  line-height: 600%;
+  font-size: 18px;
+}
+
+.needle path {
+  fill: #f00530 !important;
+}
+
+.needle circle {
+  fill: #f00530 !important;
+}
+
+.percentage {
+  font-weight: bold;
+}
+
+.amount {
+  text-align: center;
+}
+
+.graph {
+  padding: 0 5% 5% 5%;
+  height: 0% !important;
+}
+
+.Canvas {
+  height: 50px !important;
+}

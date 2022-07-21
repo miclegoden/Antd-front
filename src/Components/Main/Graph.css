@@ -1,0 +1,12 @@
+.graph {
+  height: 0% !important;
+}
+
+canvas {
+  height: 100px !important;
+  color: #f00530 !important;
+}
+
+.g2-tooltip {
+  color: #f00530 !important;
+}

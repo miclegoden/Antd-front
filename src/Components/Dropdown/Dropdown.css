@@ -1,0 +1,26 @@
+.ant-dropdown {
+  align-items: right !important;
+}
+.ant-dropdown-menu {
+  width: 120px;
+  text-align: right !important;
+}
+.ant-dropdown-menu-item {
+  text-align: center;
+  display: flex !important;
+}
+.ant-dropdown-menu-item-active {
+  color: #f00530;
+}
+.ant-dropdown-menu-item-active .signout {
+  stroke: #f00530 !important;
+  display: flex !important;
+}
+/* .ant-dropdown-menu-item-icon {
+    margin-left: 15px;
+    margin-right: 0px !important;
+  }
+  
+  .ant-dropdown-menu-title-content {
+    margin-right: 40px !important;
+  } */

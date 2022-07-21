@@ -1,0 +1,33 @@
+<svg
+  width="20"
+  height="20"
+  viewBox="0 0 20 20"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  
+<path
+    d="M2.1423 19.2852L17.8566 19.2852C18.6456 19.2852 19.2852 18.6456 19.2852 17.8566L19.2852 2.1423C19.2852 1.35332 18.6456 0.713728 17.8566 0.713728L2.1423 0.713728C1.35332 0.713728 0.713728 1.35332 0.713728 2.1423L0.713728 17.8566C0.713728 18.6456 1.35332 19.2852 2.1423 19.2852Z M7.85645 0.713867V19.2853 M7.85645 10H19.285"
+    stroke="#575757"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    class="myDashboard"
+  />
+<!-- <path
+    d="M7.85645 0.713867V19.2853"
+    stroke="#575757"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    id="MyRect"
+  /> -->
+<!-- <path
+    d="M7.85645 10H19.285"
+    stroke="#575757"
+    stroke-width="2"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+    id="MyRect"
+  /> -->
+</svg>
